@@ -1,4 +1,4 @@
-# Jenkins-Interview-Flash-card
+# Jenkins-Interview-Questions-Flash-card
 
 Q1: What is Jenkins?
 A1: Jenkins is an open-source CI/CD tool that automates build, test, and deployment.
